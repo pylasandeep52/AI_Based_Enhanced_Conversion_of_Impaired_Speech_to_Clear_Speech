@@ -1,7 +1,6 @@
 streamlit
 numpy
 pyaudio
-sounddevice
 librosa
 soundfile
 tensorflow
